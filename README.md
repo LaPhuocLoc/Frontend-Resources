@@ -1,6 +1,6 @@
 # Frontend-Resources
 
 Animation
-1.Lottie
-2.Framer motion
-3.Loading.io 
+1.Lottie <br>
+2.Framer motion <br>
+3.Loading.io <br>
